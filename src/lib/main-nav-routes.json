@@ -1,0 +1,22 @@
+[
+  {
+    "route": "home",
+    "path": "/",
+    "id": "nav-route--home"
+  },
+  {
+    "route": "destination",
+    "path": "/destination",
+    "id": "nav-route--destination"
+  },
+  {
+    "route": "crew",
+    "path": "/crew",
+    "id": "nav-route--crew"
+  },
+  {
+    "route": "technology",
+    "path": "/technology",
+    "id": "nav-route--technology"
+  }
+]
